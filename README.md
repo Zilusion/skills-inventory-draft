@@ -142,3 +142,10 @@
 ## Зачем этот репозиторий
 
 На этом этапе это просто рабочая база для обновления профильного `README`, выбора pinned-репозиториев и дальнейшего оформления красивого GitHub-профиля с иконками технологий, акцентом на `Svelte` и более сильной подачей текущих проектов.
+
+## Архив из этого чата
+
+- полный сырой список навыков: [archive/full-skills-inventory.md](archive/full-skills-inventory.md)
+- текущий профильный README: [archive/profile-readme-current.md](archive/profile-readme-current.md)
+- workflow для snake: [archive/profile-snake-workflow.yml](archive/profile-snake-workflow.yml)
+- краткий бэкап решений и шагов: [archive/chat-backup-2026-03-16.md](archive/chat-backup-2026-03-16.md)
